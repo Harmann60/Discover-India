@@ -102,9 +102,13 @@ Visit `http://localhost:5173` (or as shown in your terminal).
 
 ## 👥 Contributors
 
-| Name          | Role                 |
-| ------------- | -------------------- |
-| Harman Jassal | Developer & Designer |
+| Name            | Role                 |
+| -------------   | -------------------- |
+| Harman Jassal   | Developer & Designer
+|---------------  |-------------------- -|
+|Jalaj Maheshwari | Backend Developer    |
+|-----------------|----------------------|
+|Gauri Gautam     | Documentation        |
 
 ---
 
